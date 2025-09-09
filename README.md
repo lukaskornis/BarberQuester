@@ -1,5 +1,5 @@
 # Barber Quester
-A technical demo of a VR Barber Shop experience. Made in around 20 hours with a jam like pacing and considerations.
+A technical demo of a VR Barber Shop experience. Made in around 20 hours
 
 ## Features
 - Hair coloring using vertex colors
